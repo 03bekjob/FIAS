@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/cascade.png</file>
+        <file>img/closeall.png</file>
+        <file>img/closeone.png</file>
+        <file>img/closetab.png</file>
+        <file>img/database.png</file>
+        <file>img/editcopy.png</file>
+        <file>img/Excel.png</file>
+        <file>img/exit.png</file>
+        <file>img/print.png</file>
+        <file>img/refresh.png</file>
+        <file>img/Thumbs.db</file>
+        <file>img/tile.png</file>
+        <file>img/turn.png</file>
+        <file>img/Exit_32.png</file>
+        <file>img/downloads.png</file>
+        <file>img/right-32.png</file>
+    </qresource>
+</RCC>
